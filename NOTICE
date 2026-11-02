@@ -1,0 +1,18 @@
+SYNTH_DESIGNs
+OpenTitan RTL packaged for physical-design experiments.
+
+RTL source: https://github.com/lowRISC/opentitan
+Commit: ccffab942d75b44fd7f319cc5d53e94a0452385d (2026-11-02)
+
+The OpenTitan Project
+Copyright lowRISC contributors (OpenTitan project).
+
+This product includes hardware developed as part of the
+OpenTitan(R) project (https://www.opentitan.org,
+https://github.com/lowRISC/opentitan).
+
+The RTL files are unmodified from that commit. File lists, SDC
+starting constraints, and README files were added for block-level
+synthesis and place-and-route experiments.
+
+See LICENSE for the Apache License, Version 2.0.
